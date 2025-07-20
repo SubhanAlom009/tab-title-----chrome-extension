@@ -4,7 +4,7 @@
 
 ## Features
 
-- Auto-fetch on open
+- Fetches tab title
 - Copy to clipboard
 - Minimal dark theme
 - Clean UI
